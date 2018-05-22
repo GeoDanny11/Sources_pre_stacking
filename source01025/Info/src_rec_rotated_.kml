@@ -1,0 +1,2739 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<kml xmlns="http://earth.google.com/kml/2.0"> 
+<Document> 
+
+   <name> rotated_ earthquake-receiver configuration</name>
+     <LookAt>
+     <longitude>      0.00 </longitude><latitude>     90.00 </latitude>
+      <range>7000000</range><tilt>0</tilt><heading>0</heading>
+     </LookAt>
+
+ ......
+   <Placemark>
+      <Style id="earthquake">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/shapes/volcano.png</href>
+              </Icon>
+            </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+         </Style>
+     <name>rotated_ earthquake</name>
+   <Point><coordinates>      0.00,     90.00 </coordinates></Point>
+    </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   AAK_II      rec    1</name>
+          <description>          AAK_II
+  colat,lon [deg]:   78.66  133.70
+  <img src="../Data/AAK_II_disp.dat_s.gif"></img>
+  <img src="../Data/AAK_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    133.70,     11.34 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  ABKT_II      rec    2</name>
+          <description>         ABKT_II
+  colat,lon [deg]:   65.38  132.54
+  <img src="../Data/ABKT_II_disp.dat_s.gif"></img>
+  <img src="../Data/ABKT_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    132.54,     24.62 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  ABPO_II      rec    3</name>
+          <description>         ABPO_II
+  colat,lon [deg]:   50.06   64.85
+  <img src="../Data/ABPO_II_disp.dat_s.gif"></img>
+  <img src="../Data/ABPO_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     64.85,     39.94 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   ALE_II      rec    4</name>
+          <description>          ALE_II
+  colat,lon [deg]:   86.53  186.65
+  <img src="../Data/ALE_II_disp.dat_s.gif"></img>
+  <img src="../Data/ALE_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -173.35,      3.47 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   ARU_II      rec    5</name>
+          <description>          ARU_II
+  colat,lon [deg]:   73.24  150.48
+  <img src="../Data/ARU_II_disp.dat_s.gif"></img>
+  <img src="../Data/ARU_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    150.48,     16.76 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  ASCN_II      rec    6</name>
+          <description>         ASCN_II
+  colat,lon [deg]:   16.37  299.33
+  <img src="../Data/ASCN_II_disp.dat_s.gif"></img>
+  <img src="../Data/ASCN_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -60.67,     73.63 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   BFO_II      rec    7</name>
+          <description>          BFO_II
+  colat,lon [deg]:   48.87  172.65
+  <img src="../Data/BFO_II_disp.dat_s.gif"></img>
+  <img src="../Data/BFO_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    172.65,     41.13 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  BORG_II      rec    8</name>
+          <description>         BORG_II
+  colat,lon [deg]:   66.58  189.73
+  <img src="../Data/BORG_II_disp.dat_s.gif"></img>
+  <img src="../Data/BORG_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -170.27,     23.42 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  BRVK_II      rec    9</name>
+          <description>         BRVK_II
+  colat,lon [deg]:   78.30  144.71
+  <img src="../Data/BRVK_II_disp.dat_s.gif"></img>
+  <img src="../Data/BRVK_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    144.71,     11.70 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  CMLA_II      rec   10</name>
+          <description>         CMLA_II
+  colat,lon [deg]:   44.49  209.09
+  <img src="../Data/CMLA_II_disp.dat_s.gif"></img>
+  <img src="../Data/CMLA_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -150.91,     45.51 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  COCO_II      rec   11</name>
+          <description>         COCO_II
+  colat,lon [deg]:   96.68   77.73
+  <img src="../Data/COCO_II_disp.dat_s.gif"></img>
+  <img src="../Data/COCO_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     77.73,     -6.68 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  DGAR_II      rec   12</name>
+          <description>         DGAR_II
+  colat,lon [deg]:   72.60   82.23
+  <img src="../Data/DGAR_II_disp.dat_s.gif"></img>
+  <img src="../Data/DGAR_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     82.23,     17.40 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   EFI_II      rec   13</name>
+          <description>          EFI_II
+  colat,lon [deg]:   70.85  326.15
+  <img src="../Data/EFI_II_disp.dat_s.gif"></img>
+  <img src="../Data/EFI_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -33.85,     19.15 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   ERM_II      rec   14</name>
+          <description>          ERM_II
+  colat,lon [deg]:  126.48  146.35
+  <img src="../Data/ERM_II_disp.dat_s.gif"></img>
+  <img src="../Data/ERM_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    146.35,    -36.48 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   ESK_II      rec   15</name>
+          <description>          ESK_II
+  colat,lon [deg]:   55.38  182.22
+  <img src="../Data/ESK_II_disp.dat_s.gif"></img>
+  <img src="../Data/ESK_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -177.78,     34.62 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   FFC_II      rec   16</name>
+          <description>          FFC_II
+  colat,lon [deg]:   96.88  214.68
+  <img src="../Data/FFC_II_disp.dat_s.gif"></img>
+  <img src="../Data/FFC_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -145.32,     -6.88 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   GAR_II      rec   17</name>
+          <description>          GAR_II
+  colat,lon [deg]:   74.82  130.70
+  <img src="../Data/GAR_II_disp.dat_s.gif"></img>
+  <img src="../Data/GAR_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    130.70,     15.18 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  HOPE_II      rec   18</name>
+          <description>         HOPE_II
+  colat,lon [deg]:   62.01  336.85
+  <img src="../Data/HOPE_II_disp.dat_s.gif"></img>
+  <img src="../Data/HOPE_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -23.15,     27.99 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   JTS_II      rec   19</name>
+          <description>          JTS_II
+  colat,lon [deg]:   85.03  259.67
+  <img src="../Data/JTS_II_disp.dat_s.gif"></img>
+  <img src="../Data/JTS_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -100.33,      4.97 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  KAPI_II      rec   20</name>
+          <description>         KAPI_II
+  colat,lon [deg]:  119.63   84.23
+  <img src="../Data/KAPI_II_disp.dat_s.gif"></img>
+  <img src="../Data/KAPI_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     84.23,    -29.63 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  KDAK_II      rec   21</name>
+          <description>         KDAK_II
+  colat,lon [deg]:  118.24  196.18
+  <img src="../Data/KDAK_II_disp.dat_s.gif"></img>
+  <img src="../Data/KDAK_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -163.82,    -28.24 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   KIV_II      rec   22</name>
+          <description>          KIV_II
+  colat,lon [deg]:   58.05  144.89
+  <img src="../Data/KIV_II_disp.dat_s.gif"></img>
+  <img src="../Data/KIV_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    144.89,     31.95 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  KURK_II      rec   23</name>
+          <description>         KURK_II
+  colat,lon [deg]:   82.82  141.27
+  <img src="../Data/KURK_II_disp.dat_s.gif"></img>
+  <img src="../Data/KURK_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    141.27,      7.18 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  KWAJ_II      rec   24</name>
+          <description>         KWAJ_II
+  colat,lon [deg]:  164.84  125.83
+  <img src="../Data/KWAJ_II_disp.dat_s.gif"></img>
+  <img src="../Data/KWAJ_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    125.83,    -74.84 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   LVZ_II      rec   25</name>
+          <description>          LVZ_II
+  colat,lon [deg]:   71.97  167.00
+  <img src="../Data/LVZ_II_disp.dat_s.gif"></img>
+  <img src="../Data/LVZ_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    167.00,     18.03 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  MBAR_II      rec   26</name>
+          <description>         MBAR_II
+  colat,lon [deg]:   30.74   88.82
+  <img src="../Data/MBAR_II_disp.dat_s.gif"></img>
+  <img src="../Data/MBAR_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     88.82,     59.26 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  MSEY_II      rec   27</name>
+          <description>         MSEY_II
+  colat,lon [deg]:   55.61   84.33
+  <img src="../Data/MSEY_II_disp.dat_s.gif"></img>
+  <img src="../Data/MSEY_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     84.33,     34.39 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  MSVF_II      rec   28</name>
+          <description>         MSVF_II
+  colat,lon [deg]:  162.15    6.06
+  <img src="../Data/MSVF_II_disp.dat_s.gif"></img>
+  <img src="../Data/MSVF_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>      6.06,    -72.15 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   NIL_II      rec   29</name>
+          <description>          NIL_II
+  colat,lon [deg]:   76.13  124.80
+  <img src="../Data/NIL_II_disp.dat_s.gif"></img>
+  <img src="../Data/NIL_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    124.80,     13.87 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   NNA_II      rec   30</name>
+          <description>          NNA_II
+  colat,lon [deg]:   77.14  282.30
+  <img src="../Data/NNA_II_disp.dat_s.gif"></img>
+  <img src="../Data/NNA_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -77.70,     12.86 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  NRIL_II      rec   31</name>
+          <description>         NRIL_II
+  colat,lon [deg]:   89.45  159.51
+  <img src="../Data/NRIL_II_disp.dat_s.gif"></img>
+  <img src="../Data/NRIL_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    159.51,      0.55 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   NVS_II      rec   32</name>
+          <description>          NVS_II
+  colat,lon [deg]:   86.11  145.03
+  <img src="../Data/NVS_II_disp.dat_s.gif"></img>
+  <img src="../Data/NVS_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    145.03,      3.89 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   OBN_II      rec   33</name>
+          <description>          OBN_II
+  colat,lon [deg]:   62.65  157.44
+  <img src="../Data/OBN_II_disp.dat_s.gif"></img>
+  <img src="../Data/OBN_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    157.44,     27.35 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  PALK_II      rec   34</name>
+          <description>         PALK_II
+  colat,lon [deg]:   80.78   97.37
+  <img src="../Data/PALK_II_disp.dat_s.gif"></img>
+  <img src="../Data/PALK_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     97.37,      9.22 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  RAYN_II      rec   35</name>
+          <description>         RAYN_II
+  colat,lon [deg]:   50.01  121.39
+  <img src="../Data/RAYN_II_disp.dat_s.gif"></img>
+  <img src="../Data/RAYN_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    121.39,     39.99 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   RPN_II      rec   36</name>
+          <description>          RPN_II
+  colat,lon [deg]:  107.14  298.50
+  <img src="../Data/RPN_II_disp.dat_s.gif"></img>
+  <img src="../Data/RPN_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -61.50,    -17.14 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  SACV_II      rec   37</name>
+          <description>         SACV_II
+  colat,lon [deg]:   27.72  236.27
+  <img src="../Data/SACV_II_disp.dat_s.gif"></img>
+  <img src="../Data/SACV_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -123.73,     62.28 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  SHEL_II      rec   38</name>
+          <description>         SHEL_II
+  colat,lon [deg]:   16.94  340.70
+  <img src="../Data/SHEL_II_disp.dat_s.gif"></img>
+  <img src="../Data/SHEL_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -19.30,     73.06 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   SUR_II      rec   39</name>
+          <description>          SUR_II
+  colat,lon [deg]:   37.87   29.26
+  <img src="../Data/SUR_II_disp.dat_s.gif"></img>
+  <img src="../Data/SUR_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     29.26,     52.13 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   TAU_II      rec   40</name>
+          <description>          TAU_II
+  colat,lon [deg]:  128.06   30.15
+  <img src="../Data/TAU_II_disp.dat_s.gif"></img>
+  <img src="../Data/TAU_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     30.15,    -38.06 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   TLY_II      rec   41</name>
+          <description>          TLY_II
+  colat,lon [deg]:   98.41  142.48
+  <img src="../Data/TLY_II_disp.dat_s.gif"></img>
+  <img src="../Data/TLY_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    142.48,     -8.41 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  UOSS_II      rec   42</name>
+          <description>         UOSS_II
+  colat,lon [deg]:   59.71  119.24
+  <img src="../Data/UOSS_II_disp.dat_s.gif"></img>
+  <img src="../Data/UOSS_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    119.24,     30.29 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  WRAB_II      rec   43</name>
+          <description>         WRAB_II
+  colat,lon [deg]:  131.09   63.11
+  <img src="../Data/WRAB_II_disp.dat_s.gif"></img>
+  <img src="../Data/WRAB_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     63.11,    -41.09 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  XPFO_II      rec   44</name>
+          <description>         XPFO_II
+  colat,lon [deg]:  111.78  233.41
+  <img src="../Data/XPFO_II_disp.dat_s.gif"></img>
+  <img src="../Data/XPFO_II_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -126.59,    -21.78 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   AAE_IU      rec   45</name>
+          <description>          AAE_IU
+  colat,lon [deg]:   39.64  104.24
+  <img src="../Data/AAE_IU_disp.dat_s.gif"></img>
+  <img src="../Data/AAE_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    104.24,     50.36 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   ADK_IU      rec   46</name>
+          <description>          ADK_IU
+  colat,lon [deg]:  128.04  182.60
+  <img src="../Data/ADK_IU_disp.dat_s.gif"></img>
+  <img src="../Data/ADK_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -177.40,    -38.04 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   AFI_IU      rec   47</name>
+          <description>          AFI_IU
+  colat,lon [deg]:  163.89  329.99
+  <img src="../Data/AFI_IU_disp.dat_s.gif"></img>
+  <img src="../Data/AFI_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -30.01,    -73.89 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  ANMO_IU      rec   48</name>
+          <description>         ANMO_IU
+  colat,lon [deg]:  103.43  233.92
+  <img src="../Data/ANMO_IU_disp.dat_s.gif"></img>
+  <img src="../Data/ANMO_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -126.08,    -13.43 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  ANTO_IU      rec   49</name>
+          <description>         ANTO_IU
+  colat,lon [deg]:   49.82  147.04
+  <img src="../Data/ANTO_IU_disp.dat_s.gif"></img>
+  <img src="../Data/ANTO_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    147.04,     40.18 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  BBSR_IU      rec   50</name>
+          <description>         BBSR_IU
+  colat,lon [deg]:   68.84  234.96
+  <img src="../Data/BBSR_IU_disp.dat_s.gif"></img>
+  <img src="../Data/BBSR_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -125.04,     21.16 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  BILL_IU      rec   51</name>
+          <description>         BILL_IU
+  colat,lon [deg]:  111.29  174.61
+  <img src="../Data/BILL_IU_disp.dat_s.gif"></img>
+  <img src="../Data/BILL_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    174.61,    -21.29 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  BOCO_IU      rec   52</name>
+          <description>         BOCO_IU
+  colat,lon [deg]:   74.10  265.23
+  <img src="../Data/BOCO_IU_disp.dat_s.gif"></img>
+  <img src="../Data/BOCO_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -94.77,     15.90 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  CASY_IU      rec   53</name>
+          <description>         CASY_IU
+  colat,lon [deg]:   98.11   22.37
+  <img src="../Data/CASY_IU_disp.dat_s.gif"></img>
+  <img src="../Data/CASY_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     22.37,     -8.11 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   CCM_IU      rec   54</name>
+          <description>          CCM_IU
+  colat,lon [deg]:   90.98  231.94
+  <img src="../Data/CCM_IU_disp.dat_s.gif"></img>
+  <img src="../Data/CCM_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -128.06,     -0.98 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  CHTO_IU      rec   55</name>
+          <description>         CHTO_IU
+  colat,lon [deg]:   98.46  109.03
+  <img src="../Data/CHTO_IU_disp.dat_s.gif"></img>
+  <img src="../Data/CHTO_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    109.03,     -8.46 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  COLA_IU      rec   56</name>
+          <description>         COLA_IU
+  colat,lon [deg]:  111.07  194.01
+  <img src="../Data/COLA_IU_disp.dat_s.gif"></img>
+  <img src="../Data/COLA_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -165.99,    -21.07 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   COR_IU      rec   57</name>
+          <description>          COR_IU
+  colat,lon [deg]:  113.02  220.30
+  <img src="../Data/COR_IU_disp.dat_s.gif"></img>
+  <img src="../Data/COR_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -139.70,    -23.02 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  CTAO_IU      rec   58</name>
+          <description>         CTAO_IU
+  colat,lon [deg]:  141.35   56.64
+  <img src="../Data/CTAO_IU_disp.dat_s.gif"></img>
+  <img src="../Data/CTAO_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     56.64,    -51.35 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   DAV_IU      rec   59</name>
+          <description>          DAV_IU
+  colat,lon [deg]:  125.27   98.67
+  <img src="../Data/DAV_IU_disp.dat_s.gif"></img>
+  <img src="../Data/DAV_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     98.67,    -35.27 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  DWPF_IU      rec   60</name>
+          <description>         DWPF_IU
+  colat,lon [deg]:   82.45  241.62
+  <img src="../Data/DWPF_IU_disp.dat_s.gif"></img>
+  <img src="../Data/DWPF_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -118.38,      7.55 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  FUNA_IU      rec   61</name>
+          <description>         FUNA_IU
+  colat,lon [deg]:  171.44    5.35
+  <img src="../Data/FUNA_IU_disp.dat_s.gif"></img>
+  <img src="../Data/FUNA_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>      5.35,    -81.44 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  FURI_IU      rec   62</name>
+          <description>         FURI_IU
+  colat,lon [deg]:   39.53  104.06
+  <img src="../Data/FURI_IU_disp.dat_s.gif"></img>
+  <img src="../Data/FURI_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    104.06,     50.47 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   GNI_IU      rec   63</name>
+          <description>          GNI_IU
+  colat,lon [deg]:   57.11  140.15
+  <img src="../Data/GNI_IU_disp.dat_s.gif"></img>
+  <img src="../Data/GNI_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    140.15,     32.89 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  GRFO_IU      rec   64</name>
+          <description>         GRFO_IU
+  colat,lon [deg]:   50.61  170.63
+  <img src="../Data/GRFO_IU_disp.dat_s.gif"></img>
+  <img src="../Data/GRFO_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    170.63,     39.39 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  GUMO_IU      rec   65</name>
+          <description>         GUMO_IU
+  colat,lon [deg]:  142.65  112.79
+  <img src="../Data/GUMO_IU_disp.dat_s.gif"></img>
+  <img src="../Data/GUMO_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    112.79,    -52.65 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   HKT_IU      rec   66</name>
+          <description>          HKT_IU
+  colat,lon [deg]:   95.06  239.91
+  <img src="../Data/HKT_IU_disp.dat_s.gif"></img>
+  <img src="../Data/HKT_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -120.09,     -5.06 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   HNR_IU      rec   67</name>
+          <description>          HNR_IU
+  colat,lon [deg]:  157.92   64.14
+  <img src="../Data/HNR_IU_disp.dat_s.gif"></img>
+  <img src="../Data/HNR_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     64.14,    -67.92 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   HRV_IU      rec   68</name>
+          <description>          HRV_IU
+  colat,lon [deg]:   76.51  225.99
+  <img src="../Data/HRV_IU_disp.dat_s.gif"></img>
+  <img src="../Data/HRV_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -134.01,     13.49 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  INCN_IU      rec   69</name>
+          <description>         INCN_IU
+  colat,lon [deg]:  118.25  133.69
+  <img src="../Data/INCN_IU_disp.dat_s.gif"></img>
+  <img src="../Data/INCN_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    133.69,    -28.25 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  JOHN_IU      rec   70</name>
+          <description>         JOHN_IU
+  colat,lon [deg]:  160.34  211.15
+  <img src="../Data/JOHN_IU_disp.dat_s.gif"></img>
+  <img src="../Data/JOHN_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -148.85,    -70.34 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   KBS_IU      rec   71</name>
+          <description>          KBS_IU
+  colat,lon [deg]:   79.16  177.68
+  <img src="../Data/KBS_IU_disp.dat_s.gif"></img>
+  <img src="../Data/KBS_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    177.68,     10.84 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   KEV_IU      rec   72</name>
+          <description>          KEV_IU
+  colat,lon [deg]:   72.04  170.49
+  <img src="../Data/KEV_IU_disp.dat_s.gif"></img>
+  <img src="../Data/KEV_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    170.49,     17.96 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  KIEV_IU      rec   73</name>
+          <description>         KIEV_IU
+  colat,lon [deg]:   56.44  158.22
+  <img src="../Data/KIEV_IU_disp.dat_s.gif"></img>
+  <img src="../Data/KIEV_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    158.22,     33.56 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   KIP_IU      rec   74</name>
+          <description>          KIP_IU
+  colat,lon [deg]:  149.68  223.65
+  <img src="../Data/KIP_IU_disp.dat_s.gif"></img>
+  <img src="../Data/KIP_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -136.35,    -59.68 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  KMBO_IU      rec   75</name>
+          <description>         KMBO_IU
+  colat,lon [deg]:   37.27   88.14
+  <img src="../Data/KMBO_IU_disp.dat_s.gif"></img>
+  <img src="../Data/KMBO_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     88.14,     52.73 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  KNTN_IU      rec   76</name>
+          <description>         KNTN_IU
+  colat,lon [deg]:  171.27  288.59
+  <img src="../Data/KNTN_IU_disp.dat_s.gif"></img>
+  <img src="../Data/KNTN_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -71.41,    -81.27 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  KONO_IU      rec   77</name>
+          <description>         KONO_IU
+  colat,lon [deg]:   60.12  174.42
+  <img src="../Data/KONO_IU_disp.dat_s.gif"></img>
+  <img src="../Data/KONO_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    174.42,     29.88 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  KOWA_IU      rec   78</name>
+          <description>         KOWA_IU
+  colat,lon [deg]:   15.03  195.15
+  <img src="../Data/KOWA_IU_disp.dat_s.gif"></img>
+  <img src="../Data/KOWA_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -164.85,     74.97 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   LCO_IU      rec   79</name>
+          <description>          LCO_IU
+  colat,lon [deg]:   73.20  300.44
+  <img src="../Data/LCO_IU_disp.dat_s.gif"></img>
+  <img src="../Data/LCO_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -59.56,     16.80 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   LSZ_IU      rec   80</name>
+          <description>          LSZ_IU
+  colat,lon [deg]:   31.76   59.96
+  <img src="../Data/LSZ_IU_disp.dat_s.gif"></img>
+  <img src="../Data/LSZ_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     59.96,     58.24 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   LVC_IU      rec   81</name>
+          <description>          LVC_IU
+  colat,lon [deg]:   70.60  294.06
+  <img src="../Data/LVC_IU_disp.dat_s.gif"></img>
+  <img src="../Data/LVC_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -65.94,     19.40 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   MA2_IU      rec   82</name>
+          <description>          MA2_IU
+  colat,lon [deg]:  116.22  164.00
+  <img src="../Data/MA2_IU_disp.dat_s.gif"></img>
+  <img src="../Data/MA2_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    164.00,    -26.22 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  MAJO_IU      rec   83</name>
+          <description>         MAJO_IU
+  colat,lon [deg]:  126.79  138.04
+  <img src="../Data/MAJO_IU_disp.dat_s.gif"></img>
+  <img src="../Data/MAJO_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    138.04,    -36.79 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  MAKZ_IU      rec   84</name>
+          <description>         MAKZ_IU
+  colat,lon [deg]:   84.52  137.09
+  <img src="../Data/MAKZ_IU_disp.dat_s.gif"></img>
+  <img src="../Data/MAKZ_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    137.09,      5.48 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  MBWA_IU      rec   85</name>
+          <description>         MBWA_IU
+  colat,lon [deg]:  117.55   65.98
+  <img src="../Data/MBWA_IU_disp.dat_s.gif"></img>
+  <img src="../Data/MBWA_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     65.98,    -27.55 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  MIDW_IU      rec   86</name>
+          <description>         MIDW_IU
+  colat,lon [deg]:  151.67  184.89
+  <img src="../Data/MIDW_IU_disp.dat_s.gif"></img>
+  <img src="../Data/MIDW_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -175.11,    -61.67 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  MSKU_IU      rec   87</name>
+          <description>         MSKU_IU
+  colat,lon [deg]:   13.71   82.99
+  <img src="../Data/MSKU_IU_disp.dat_s.gif"></img>
+  <img src="../Data/MSKU_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     82.99,     76.29 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   NAI_IU      rec   88</name>
+          <description>          NAI_IU
+  colat,lon [deg]:   36.82   87.87
+  <img src="../Data/NAI_IU_disp.dat_s.gif"></img>
+  <img src="../Data/NAI_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     87.87,     53.18 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  NWAO_IU      rec   89</name>
+          <description>         NWAO_IU
+  colat,lon [deg]:  112.59   53.93
+  <img src="../Data/NWAO_IU_disp.dat_s.gif"></img>
+  <img src="../Data/NWAO_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     53.93,    -22.59 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  OTAV_IU      rec   90</name>
+          <description>         OTAV_IU
+  colat,lon [deg]:   78.45  269.76
+  <img src="../Data/OTAV_IU_disp.dat_s.gif"></img>
+  <img src="../Data/OTAV_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -90.24,     11.55 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   PAB_IU      rec   91</name>
+          <description>          PAB_IU
+  colat,lon [deg]:   39.74  185.25
+  <img src="../Data/PAB_IU_disp.dat_s.gif"></img>
+  <img src="../Data/PAB_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -174.75,     50.26 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  PAYG_IU      rec   92</name>
+          <description>         PAYG_IU
+  colat,lon [deg]:   90.29  270.67
+  <img src="../Data/PAYG_IU_disp.dat_s.gif"></img>
+  <img src="../Data/PAYG_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -89.33,     -0.29 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   PET_IU      rec   93</name>
+          <description>          PET_IU
+  colat,lon [deg]:  124.07  164.67
+  <img src="../Data/PET_IU_disp.dat_s.gif"></img>
+  <img src="../Data/PET_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    164.67,    -34.07 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   PMG_IU      rec   94</name>
+          <description>          PMG_IU
+  colat,lon [deg]:  145.98   73.02
+  <img src="../Data/PMG_IU_disp.dat_s.gif"></img>
+  <img src="../Data/PMG_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     73.02,    -55.98 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  PMSA_IU      rec   95</name>
+          <description>         PMSA_IU
+  colat,lon [deg]:   79.25  337.04
+  <img src="../Data/PMSA_IU_disp.dat_s.gif"></img>
+  <img src="../Data/PMSA_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -22.96,     10.75 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  POHA_IU      rec   96</name>
+          <description>         POHA_IU
+  colat,lon [deg]:  148.94  229.06
+  <img src="../Data/POHA_IU_disp.dat_s.gif"></img>
+  <img src="../Data/POHA_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -130.94,    -58.94 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  PTCN_IU      rec   97</name>
+          <description>         PTCN_IU
+  colat,lon [deg]:  125.69  301.45
+  <img src="../Data/PTCN_IU_disp.dat_s.gif"></img>
+  <img src="../Data/PTCN_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -58.55,    -35.69 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  PTGA_IU      rec   98</name>
+          <description>         PTGA_IU
+  colat,lon [deg]:   59.97  270.85
+  <img src="../Data/PTGA_IU_disp.dat_s.gif"></img>
+  <img src="../Data/PTGA_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -89.15,     30.03 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  QSPA_IU      rec   99</name>
+          <description>         QSPA_IU
+  colat,lon [deg]:   90.06    0.04
+  <img src="../Data/QSPA_IU_disp.dat_s.gif"></img>
+  <img src="../Data/QSPA_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>      0.04,     -0.06 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  RAIO_IU      rec  100</name>
+          <description>         RAIO_IU
+  colat,lon [deg]:  112.14  219.00
+  <img src="../Data/RAIO_IU_disp.dat_s.gif"></img>
+  <img src="../Data/RAIO_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -141.00,    -22.14 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   RAO_IU      rec  101</name>
+          <description>          RAO_IU
+  colat,lon [deg]:  150.69  356.31
+  <img src="../Data/RAO_IU_disp.dat_s.gif"></img>
+  <img src="../Data/RAO_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     -3.69,    -60.69 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   RAR_IU      rec  102</name>
+          <description>          RAR_IU
+  colat,lon [deg]:  151.02  318.30
+  <img src="../Data/RAR_IU_disp.dat_s.gif"></img>
+  <img src="../Data/RAR_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -41.70,    -61.02 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  RCBR_IU      rec  103</name>
+          <description>         RCBR_IU
+  colat,lon [deg]:   36.31  279.88
+  <img src="../Data/RCBR_IU_disp.dat_s.gif"></img>
+  <img src="../Data/RCBR_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -80.12,     53.69 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  RSSD_IU      rec  104</name>
+          <description>         RSSD_IU
+  colat,lon [deg]:  100.03  225.01
+  <img src="../Data/RSSD_IU_disp.dat_s.gif"></img>
+  <img src="../Data/RSSD_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -134.99,    -10.03 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  SAML_IU      rec  105</name>
+          <description>         SAML_IU
+  colat,lon [deg]:   63.54  280.01
+  <img src="../Data/SAML_IU_disp.dat_s.gif"></img>
+  <img src="../Data/SAML_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -79.99,     26.46 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   SBA_IU      rec  106</name>
+          <description>          SBA_IU
+  colat,lon [deg]:  101.82    2.82
+  <img src="../Data/SBA_IU_disp.dat_s.gif"></img>
+  <img src="../Data/SBA_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>      2.82,    -11.82 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   SDV_IU      rec  107</name>
+          <description>          SDV_IU
+  colat,lon [deg]:   70.88  260.59
+  <img src="../Data/SDV_IU_disp.dat_s.gif"></img>
+  <img src="../Data/SDV_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -99.41,     19.12 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  SFJD_IU      rec  108</name>
+          <description>         SFJD_IU
+  colat,lon [deg]:   75.64  198.17
+  <img src="../Data/SFJD_IU_disp.dat_s.gif"></img>
+  <img src="../Data/SFJD_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -161.83,     14.36 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   SJG_IU      rec  109</name>
+          <description>          SJG_IU
+  colat,lon [deg]:   67.40  250.33
+  <img src="../Data/SJG_IU_disp.dat_s.gif"></img>
+  <img src="../Data/SJG_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -109.67,     22.60 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  SLBS_IU      rec  110</name>
+          <description>         SLBS_IU
+  colat,lon [deg]:  108.20  244.98
+  <img src="../Data/SLBS_IU_disp.dat_s.gif"></img>
+  <img src="../Data/SLBS_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -115.02,    -18.20 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  SNZO_IU      rec  111</name>
+          <description>         SNZO_IU
+  colat,lon [deg]:  138.42    6.00
+  <img src="../Data/SNZO_IU_disp.dat_s.gif"></img>
+  <img src="../Data/SNZO_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>      6.00,    -48.42 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  SSPA_IU      rec  112</name>
+          <description>         SSPA_IU
+  colat,lon [deg]:   80.84  228.73
+  <img src="../Data/SSPA_IU_disp.dat_s.gif"></img>
+  <img src="../Data/SSPA_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -131.27,      9.16 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  TARA_IU      rec  113</name>
+          <description>         TARA_IU
+  colat,lon [deg]:  172.79  100.88
+  <img src="../Data/TARA_IU_disp.dat_s.gif"></img>
+  <img src="../Data/TARA_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    100.88,    -82.79 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  TATO_IU      rec  114</name>
+          <description>         TATO_IU
+  colat,lon [deg]:  118.27  118.64
+  <img src="../Data/TATO_IU_disp.dat_s.gif"></img>
+  <img src="../Data/TATO_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    118.64,    -28.27 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   TBT_IU      rec  115</name>
+          <description>          TBT_IU
+  colat,lon [deg]:   33.41  209.35
+  <img src="../Data/TBT_IU_disp.dat_s.gif"></img>
+  <img src="../Data/TBT_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -150.65,     56.59 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  TEIG_IU      rec  116</name>
+          <description>         TEIG_IU
+  colat,lon [deg]:   88.38  249.77
+  <img src="../Data/TEIG_IU_disp.dat_s.gif"></img>
+  <img src="../Data/TEIG_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -110.23,      1.62 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  TIXI_IU      rec  117</name>
+          <description>         TIXI_IU
+  colat,lon [deg]:  101.40  165.51
+  <img src="../Data/TIXI_IU_disp.dat_s.gif"></img>
+  <img src="../Data/TIXI_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    165.51,    -11.40 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   TOL_IU      rec  118</name>
+          <description>          TOL_IU
+  colat,lon [deg]:   40.05  184.83
+  <img src="../Data/TOL_IU_disp.dat_s.gif"></img>
+  <img src="../Data/TOL_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -175.17,     49.95 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  TRIS_IU      rec  119</name>
+          <description>         TRIS_IU
+  colat,lon [deg]:   38.78  344.23
+  <img src="../Data/TRIS_IU_disp.dat_s.gif"></img>
+  <img src="../Data/TRIS_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -15.77,     51.22 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  TRQA_IU      rec  120</name>
+          <description>         TRQA_IU
+  colat,lon [deg]:   68.29  311.57
+  <img src="../Data/TRQA_IU_disp.dat_s.gif"></img>
+  <img src="../Data/TRQA_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -48.43,     21.71 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  TSUM_IU      rec  121</name>
+          <description>         TSUM_IU
+  colat,lon [deg]:   25.81   40.93
+  <img src="../Data/TSUM_IU_disp.dat_s.gif"></img>
+  <img src="../Data/TSUM_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>     40.93,     64.19 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   TUC_IU      rec  122</name>
+          <description>          TUC_IU
+  colat,lon [deg]:  107.45  235.92
+  <img src="../Data/TUC_IU_disp.dat_s.gif"></img>
+  <img src="../Data/TUC_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -124.08,    -17.45 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   ULN_IU      rec  123</name>
+          <description>          ULN_IU
+  colat,lon [deg]:  101.34  139.14
+  <img src="../Data/ULN_IU_disp.dat_s.gif"></img>
+  <img src="../Data/ULN_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    139.14,    -11.34 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  WAKE_IU      rec  124</name>
+          <description>         WAKE_IU
+  colat,lon [deg]:  156.69  146.58
+  <img src="../Data/WAKE_IU_disp.dat_s.gif"></img>
+  <img src="../Data/WAKE_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    146.58,    -66.69 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   WCI_IU      rec  125</name>
+          <description>          WCI_IU
+  colat,lon [deg]:   87.09  231.71
+  <img src="../Data/WCI_IU_disp.dat_s.gif"></img>
+  <img src="../Data/WCI_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -128.29,      2.91 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   WVT_IU      rec  126</name>
+          <description>          WVT_IU
+  colat,lon [deg]:   88.25  233.85
+  <img src="../Data/WVT_IU_disp.dat_s.gif"></img>
+  <img src="../Data/WVT_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>   -126.15,      1.75 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>  XMAS_IU      rec  127</name>
+          <description>         XMAS_IU
+  colat,lon [deg]:  157.36  264.68
+  <img src="../Data/XMAS_IU_disp.dat_s.gif"></img>
+  <img src="../Data/XMAS_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    -95.32,    -67.36 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   YAK_IU      rec  128</name>
+          <description>          YAK_IU
+  colat,lon [deg]:  107.42  157.77
+  <img src="../Data/YAK_IU_disp.dat_s.gif"></img>
+  <img src="../Data/YAK_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    157.77,    -17.42 </coordinates></Point>
+  </Placemark>
+
+  <Placemark>
+      <Style id="cam">
+        <IconStyle>
+        <scale>5</scale>
+          <Icon>
+  <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+          </Icon>
+        </IconStyle>
+                   <LabelStyle>
+                       <scale>5</scale>
+                  </LabelStyle>
+      </Style>
+ <name>   YSS_IU      rec  129</name>
+          <description>          YSS_IU
+  colat,lon [deg]:  122.91  150.53
+  <img src="../Data/YSS_IU_disp.dat_s.gif"></img>
+  <img src="../Data/YSS_IU_disp.dat_z.gif"></img>
+   </description>
+   <Point><coordinates>    150.53,    -32.91 </coordinates></Point>
+  </Placemark>
+ ......
+
+ </Document>
+ </kml>
